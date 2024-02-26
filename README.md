@@ -1,4 +1,4 @@
-![image](https://github.com/priyanshu-1707/Snake-Game-T1/assets/128516306/80d99081-f530-4dac-8593-151552c3c785)# Snake Game
+# Snake Game
 
 This is a simple implementation of the classic Snake Game using Java with Swing GUI.
 
@@ -40,7 +40,7 @@ java SnakeGame
 
 ## Screenshots
 
-![Gameplay]![Uploading image.png…]
+![image](https://github.com/priyanshu-1707/Snake-Game-T1/assets/128516306/80d99081-f530-4dac-8593-151552c3c785)
 
 
 ## Contributing
